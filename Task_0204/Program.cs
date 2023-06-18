@@ -3,6 +3,8 @@
 14 -> нет;
 161 -> да.
 */
+// Так решил я.
+/*
 Console.Write("Введите число 1 => ");
 int N1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите число 2 => ");
@@ -18,16 +20,32 @@ else
 {
     Console.Write($"{N1} не кратно {N2} и {N3}");
 }
+
+*/
+//А нужно было через метод "bool"
+
+bool IsMultiplicity(int num)
+{
+    if (num%7 ==0 && num%23 ==0)
+    {
+        return true;
+    }
+    else
+    {
+        return false;
+    }
+}
+Console.Write("Введите число - ");
+int num = Convert.ToInt32(Console.ReadLine());
+bool result = IsMultiplicity(num);
+Console.WriteLine(result);
+
 /*
-проверк работы:
+
 PS C:\Users\Alex\New_JK\SeminaR_02\Task_0204> dotnet run
-Введите число 1 => 161
-Введите число 2 => 14
-Введите число 3 => 23
-161 не кратно 14 и 23
+Введите число - 12
+False
 PS C:\Users\Alex\New_JK\SeminaR_02\Task_0204> dotnet run
-Введите число 1 => 161
-Введите число 2 => 7
-Введите число 3 => 23
-161 кратно 7 и 23
+Введите число - 161
+True
 */
