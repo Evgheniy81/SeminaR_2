@@ -21,11 +21,10 @@ else
 {
     Console.WriteLine($"эти числа не являются квадратами друг друга");   
 }
-
-
 */
-//////////////
 
+
+/////////////////
 
 bool IsMultiplicity(int num1, int num2)
 {
@@ -44,3 +43,14 @@ Console.Write("Введите число 2 - ");
 int num2 = Convert.ToInt32(Console.ReadLine());
 bool result = IsMultiplicity(num1, num2);
 Console.WriteLine(result);
+
+// Можно и так
+/*
+
+bool IsSquereNumber(int num1, int num2)
+{
+    if (Math.Pow(num1, 2) == num2 || num2 * num2 == num1) return true;
+    return false;
+}
+Console.WriteLine(IsSquereNumber(-5, 25));
+*/
