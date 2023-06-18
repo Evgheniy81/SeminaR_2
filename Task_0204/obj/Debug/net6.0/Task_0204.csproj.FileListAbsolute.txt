@@ -1,0 +1,15 @@
+C:\Users\Alex\New_JK\SeminaR_02\Task_0204\bin\Debug\net6.0\Task_0204.exe
+C:\Users\Alex\New_JK\SeminaR_02\Task_0204\bin\Debug\net6.0\Task_0204.deps.json
+C:\Users\Alex\New_JK\SeminaR_02\Task_0204\bin\Debug\net6.0\Task_0204.runtimeconfig.json
+C:\Users\Alex\New_JK\SeminaR_02\Task_0204\bin\Debug\net6.0\Task_0204.dll
+C:\Users\Alex\New_JK\SeminaR_02\Task_0204\bin\Debug\net6.0\Task_0204.pdb
+C:\Users\Alex\New_JK\SeminaR_02\Task_0204\obj\Debug\net6.0\Task_0204.csproj.AssemblyReference.cache
+C:\Users\Alex\New_JK\SeminaR_02\Task_0204\obj\Debug\net6.0\Task_0204.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\New_JK\SeminaR_02\Task_0204\obj\Debug\net6.0\Task_0204.AssemblyInfoInputs.cache
+C:\Users\Alex\New_JK\SeminaR_02\Task_0204\obj\Debug\net6.0\Task_0204.AssemblyInfo.cs
+C:\Users\Alex\New_JK\SeminaR_02\Task_0204\obj\Debug\net6.0\Task_0204.csproj.CoreCompileInputs.cache
+C:\Users\Alex\New_JK\SeminaR_02\Task_0204\obj\Debug\net6.0\Task_0204.dll
+C:\Users\Alex\New_JK\SeminaR_02\Task_0204\obj\Debug\net6.0\refint\Task_0204.dll
+C:\Users\Alex\New_JK\SeminaR_02\Task_0204\obj\Debug\net6.0\Task_0204.pdb
+C:\Users\Alex\New_JK\SeminaR_02\Task_0204\obj\Debug\net6.0\Task_0204.genruntimeconfig.cache
+C:\Users\Alex\New_JK\SeminaR_02\Task_0204\obj\Debug\net6.0\ref\Task_0204.dll
